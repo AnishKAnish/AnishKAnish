@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me ...
 - anish0904@gmail.com
-- 
 
 <!---
 AnishKAnish/AnishKAnish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
